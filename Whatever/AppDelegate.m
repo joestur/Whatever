@@ -9,6 +9,7 @@
 #import "AppDelegate.h"
 
 @implementation AppDelegate
+@synthesize qwer;
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
